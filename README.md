@@ -1,20 +1,14 @@
-# To-Do List Application
+# To-Do List App
 
-This is a **trial project** showcasing a simple to-do list web application. The application allows users to add tasks, set deadlines, and receive reminders about upcoming tasks.
+A simple to-do list project created for learning and experimentation. Future updates will include new features and improvements.
 
-## 🚀 Features
+## Features
 - Add, edit, and delete tasks.
-- Set deadlines with built-in reminders.
-- Automatic color-coded highlighting based on task urgency.
+- Set deadlines for tasks.
+- Automatic highlighting of urgent tasks.
 
-## 🛠️ Technologies Used
-- **HTML**: For the structure.
-- **CSS**: For styling.
-- **JavaScript**: For functionality and task management logic.
+## Technologies
+- **HTML**: Structure of the app.
+- **CSS**: Styling the interface.
+- **JavaScript**: Core functionality and task management.
 
-## 📖 Future Enhancements
-This project is a foundation for future improvements. Planned updates include:
-1. **Integration with Google Calendar** for advanced scheduling.
-2. **Cross-device synchronization** using cloud storage.
-3. **Mobile-friendly design** for better user experience on smaller screens.
-4. **Custom notifications** and enhanced deadline management.
